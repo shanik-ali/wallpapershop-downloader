@@ -40,18 +40,27 @@ Before using the app, make sure you have installed:
 
    [➡️ Download the latest release](https://github.com/shanik-ali/wallpapershop-downloader/releases/latest)
 
-2. Make sure the Steam account you'll log in with **owns the base game**
+      <img width="1316" height="1032" alt="image" src="https://github.com/user-attachments/assets/938069db-1e59-41e8-89f2-c55406289ff9" />
+
+3. Make sure the Steam account you'll log in with **owns the base game**
    (e.g. Wallpaper Engine) -- the same requirement as using the Steam
    Workshop from inside Steam itself.
+   
+    Save your Steam username and password:
+ - username : `"your_username"`
+ - password : `"your_password"`
 
-3. Go to any Steam Workshop page, such as:
+   then press `save` to save your profile
+  - **saved profile can be easily accessed by the dropdown menu** 
+
+5. Go to any Steam Workshop page, such as:
 
    - Wallpaper Engine
    - Left 4 Dead 2
    - Cities: Skylines
    - Or other supported games
 
-4. Find the mod, map, or workshop item you want to download and copy its URL.
+6. Find the mod, map, or workshop item you want to download and copy its URL.
 
    Example:
 
@@ -59,14 +68,14 @@ Before using the app, make sure you have installed:
    https://steamcommunity.com/sharedfiles/filedetails/?id=3445534475
    ```
 
-5. Open the app and paste the URL into the input box.
+7. Open the app and paste the URL into the input box.
 
    The app will automatically detect the game. If it does not, you can search
    for the game manually.
 
-6. Choose your desired download folder.
+8. Choose your desired download folder.
 
-7. Click `Download` and wait for the download to finish.
+9. Click `Download` and wait for the download to finish.
 
 ## 🐞 Bug Reports
 
